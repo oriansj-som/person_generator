@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Person_Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "--database ..\\example.db --release 22.03.07  --from oriansj@michigan.gov --tool-generate ..\\email_person_generator\\Email_Person_Generator.exe --tool-send ..\\email_file_generator\\Email_File_generator.exe --sig-file sig.txt"
+    }
+  }
+}
